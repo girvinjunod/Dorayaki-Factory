@@ -1,3 +1,9 @@
 [submodule "Dorayaki-Supplier"]
 	path = Dorayaki-Supplier
 	url = git@github.com:girvinjunod/Dorayaki-Supplier.git
+[submodule "Dorayaki-Factory-Server"]
+	path = Dorayaki-Factory-Server
+	url = https://github.com/girvinjunod/Dorayaki-Factory-Server
+[submodule "Dorayaki-Factory-Client"]
+	path = Dorayaki-Factory-Client
+	url = git@github.com:girvinjunod/Dorayaki-Factory-Client.git
